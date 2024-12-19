@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 |Title | Stars | Technologies|
 |--|--|--|
 | [SAM-based optimizer in VLMs prompt learning](https://github.com/HRajoliN/Sharpness-Aware-Minimization-in-VLMs) | <img alt="Stars" src="https://img.shields.io/github/stars/HRajoliN/Sharpness-Aware-Minimization-in-VLMs?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+| [Let's Think Out Loud: LLM Exploration Cource](https://github.com/HRajoliN/Think-Out-Loud-Exploring-LLMs-) | <img alt="Stars" src="https://img.shields.io/github/stars/HRajoliN/Think-Out-Loud-Exploring-LLMs-?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 
 </td>
 </tr> </table>
