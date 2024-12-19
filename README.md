@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning about advance topics in Deep Learning, especifically LLM reasoning ..
 
-👯 I’m looking to collaborate on NLP advancements..
+👯 I’m looking to collaborate on Faundational model advancements..
 
-💬 Ask me about Deep Learning, privacy, NLP, AI...
+💬 Ask me about Multimodal Learning, privacy, NLP, AI...
 
 <!-- 📫 How to reach me: **[My LinkedIn!](https://www.linkedin.com/in/hossein-rajoli-nowdeh-39933b59/)** -->
 
