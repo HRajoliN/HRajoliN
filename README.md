@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### 📊GitHub Stats :
 
 
-![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRajoliNi&theme=dark&show_icons=true)
+![Hossein's GitHub stats](https://github-readme-stats.vercel.app/api?username=HRajoliN&theme=dark&show_icons=true)
 
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=vahidalizadeh&theme=radical&hide_border=false)<br/> -->
