@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 🏆GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=HRajoliN&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=HRajoliN&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### 📊GitHub Stats :
 
