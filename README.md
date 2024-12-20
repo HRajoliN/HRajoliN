@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://medium.com/machine-learning-mindset)](https://medium.com/machine-learning-mindset)  -->
 
 
-<!-- ### 🏆GitHub Trophies -->
+### 🏆GitHub Trophies
 
-<!-- ![](https://github-profile-trophy.vercel.app/?username=HRajoliN&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) -->
+![](https://github-profile-trophy.vercel.app/?username=HRajoliN&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📊GitHub Stats :
 
